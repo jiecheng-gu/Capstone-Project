@@ -7,7 +7,7 @@ The Goergen Institute for Data Science wants to understand the types of institut
 [Project Poster](https://www.hajim.rochester.edu/senior-design-day/gids-1/)
 
 ## **Project Report**
-[Project Report]()
+[Project Report](https://github.com/jiecheng-gu/Capstone-Project/blob/main/Final%20Report.pdf)
 
 ## **Technology Used**
 Microsoft Excel, Python (pandas, Matplotlib, scikit-learn)
